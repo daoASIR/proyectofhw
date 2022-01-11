@@ -21,6 +21,15 @@
 		<webMaster>fake-email@gmail.com</webMaster>
 		
 		<!-- Noticias del canal -->
+		</item>
+			<item>
+			<title>Portables</title>
+			<description>En este artículo encontrará información sobre software portable</description>
+			<link>https://davalom.github.io/proyectofhw/pages/portable/portable.html</link>
+			<author>David AO</author>
+			<category>software</category>
+			<pubDate>Viernes, 17 Dic 2021 12:25:00 +0100</pubDate>
+		</item>
 		<item>
 			<title>Avast</title>
 			<enclosure url="https://davalom.github.io/proyectofhw/media/img/antivirus/avast/avast.png" length="17885" type="image/jpeg"/>
@@ -30,16 +39,7 @@
 			<link>https://daoasir.github.io/proyectofhw/?s1=antivirus&s2=avast</link>
 			<author>dao.asir@outlook.com</author>
 			<category>Antivirus</category>
-			<pubDate>Martes, 11 Ene 2022 12:25:00 +0100</pubDate>
-		</item>
-		</item>
-			<item>
-			<title>Portables</title>
-			<description>En este artículo encontrará información sobre software portable</description>
-			<link>https://davalom.github.io/proyectofhw/pages/portable/portable.html</link>
-			<author>David AO</author>
-			<category>software</category>
-			<pubDate>Jueves, 16 Dic 2021 12:25:00 +0100</pubDate>
+			<pubDate>Lunes, 10 Ene 2022 12:25:00 +0100</pubDate>
 		</item>
 	</channel>
 </rss>
