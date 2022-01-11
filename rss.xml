@@ -23,14 +23,27 @@
 		<!-- Noticias del canal -->
 		<item>
 			<title>Antivirus</title>
-			<description>En este artículo encontrará información sobre software antivirus</description>
+			<description>Un antivirus en un software creado específicamente para ayudar a detectar y eliminar otro software considerado malicioso. Una vez instalado, la mayoría de los antivirus se ejecutan continuamente en segundo plano. Analizan todos los ficheros en uso en tiempo real con el fin de bloquear la ejecución de software potencialmente malicioso.
+
+			En sistemas Windows son muy populares, mientras que en otros sistemas como OSX o Linux son menos comunes debido a que esos sistemas son atacados con menos frecuencia.
+
+			Los antivirus utilizan distintos tipos de mecanismos para detectar virus, aunque ninguno es totalmente efectivo. Los mecanismos más usados son:
+
+			+ Basados en Firma de virus: El antivirus dispone de una base de datos en las que almacena firmas de virus. Esta medida es fácil de eludir alterando ligeramente el virus para que su hash no coincida con el de la base de datos. Esta técnica se ha mejorado al guardar secuencias concretas del código del virus en lugar del hash del software completo. Así le resulta más difícil al atacante saber que parte del virus modificar para evitar la detección.
+			+ Basados en Detección heurística: Buscando patrones de código que se asemejan a los que se usan en los virus. Al no ser necesaria una coincidencia exacta con una firma de virus almacenada es más difícil de burlar.
+			+ Basados en Detección por comportamiento: Consiste en escanear el sistema tras detectar un fallo. Es una medida que se usa una vez la infección ya se ha producido.
+			+ Basados en la Detección por Sandbox: consiste en ejecutar el software en máquinas virtuales y determinar si el software ejecuta instrucciones maliciosas o no. Es un método fiable pero que ralentiza mucho las operaciones.
+			+ Basados en la Detección por inteligencia artificial: consiste en el uso de tecnologías de inteligencia artificial para detectar comportamiento malicioso.
+			+ Basado en Indicadores de compromiso (IoC): Una vez los IoC han sido identificados pueden ser utilizados para la detección temprana de intentos de ataque que utilizan sistemas antivirus.
+			</description>
 			<link>https://davalom.github.io/proyectofhw/pages/antivirus/antivirus.html</link>
 			<author>David AO</author>
 			<category>software</category>
-			<pubDate>Jueves, 16 Dic 2021 12:25:00 +0100</pubDate>
+			<pubDate>Martes, 11 Ene 2022 12:25:00 +0100</pubDate>
+		</item>
 		</item>
 			<item>
-			<title>París</title>
+			<title>Portables</title>
 			<description>En este artículo encontrará información sobre software portable</description>
 			<link>https://davalom.github.io/proyectofhw/pages/portable/portable.html</link>
 			<author>David AO</author>
