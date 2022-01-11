@@ -21,8 +21,7 @@
 		<webMaster>dao.asir@outlook.com</webMaster>
 		
 		<!-- Noticias del canal -->
-		</item>
-			<item>
+		<item>
 			<title>Portables</title>
 			<description>En este artículo encontrará información sobre software portable</description>
 			<link>https://davalom.github.io/proyectofhw/pages/portable/portable.html</link>
