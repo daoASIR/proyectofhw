@@ -32,10 +32,8 @@
 		<item>
 			<title>Avast</title>
 			<enclosure url="https://daoasir.github.io/proyectofhw/media/img/antivirus/avast/avast.png" length="17885" type="image/jpeg"/>
-			<description>Avast es un software antivirus desarrollado por la empresa checa Avast Software. Se trata de software con licencia privativa y fue lanzado al mercado por primera vez en 1991. Si no se tiene en cuenta Microsoft Defender (que viene integrado en Windows), Avast es el software antivirus con más usuarios del mundo.
-			De las tres versiones que ofrece, la gratuita es la que ha contribuido a la gran popularidad de este antivirus.	
-			</description>
-			<link>https://daoasir.github.io/proyectofhw/?s1=antivirus&s2=avast</link>
+			<description>Avast es un software antivirus desarrollado por la empresa checa Avast Software. Se trata de software con licencia privativa y fue lanzado al mercado por primera vez en 1991. Si no se tiene en cuenta Microsoft Defender (que viene integrado en Windows), Avast es el software antivirus con más usuarios del mundo. De las tres versiones que ofrece, la gratuita es la que ha contribuido a la gran popularidad de este antivirus.</description>
+			<link>https://daoasir.github.io/proyectofhw</link>
 			<author>dao.asir@outlook.com</author>
 			<category>Antivirus</category>
 			<pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
